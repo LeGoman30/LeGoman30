@@ -14,4 +14,4 @@
 - ⚡ Fun fact: I like being spontaneous.
 
  
- <h1>📫 How to reach me: 
+ <h2>📫 How to reach me: 
