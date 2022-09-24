@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 👯 I’m looking to collaborate on making more websites and web development while learning. 
 - 🤔 I’m looking for help with learning the frontend tools.
-- 💬 Ask me about Aerospace and Aerosynamics.
+- 💬 Ask me about Aerospace and Aerodynamics.
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I like being spontaneous.
 
