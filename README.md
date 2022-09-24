@@ -14,5 +14,6 @@
 - ⚡ Fun fact: I like being spontaneous.
 
  
- <h2>📫 How to reach me: 
- <a href="https://www.instagram.com/legoman_30/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+ <h2>📫 How to reach me: </h2>
+ 
+ <a href="https://www.instagram.com/legoman_30/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
