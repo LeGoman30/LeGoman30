@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on CFD simulations for Hypersonic flows.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 👯 I’m looking to collaborate on making more websites and web development while learning. 
-- 🤔 I’m looking for help with CFD simulations for structures and basic fundamental CFD problems.
+- 🤔 I’m looking for help with learning the frontend tools.
 - 💬 Ask me about Aerospace and Aerosynamics.
 - 📫 How to reach me: 
 - 😄 Pronouns: HE/HIM
