@@ -15,3 +15,4 @@
 
  
  <h2>📫 How to reach me: 
+ <a href="https://www.instagram.com/legoman_30/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
